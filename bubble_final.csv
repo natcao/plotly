@@ -1,0 +1,889 @@
+country,year,co2,World,co2_per_capita,population
+Afghanistan,2008,35452.459,third,76.867,27722281
+Afghanistan,2012,34974.075,third,75.96,31161378
+Afghanistan,2016,34807.259,third,74.817,35383028
+Afghanistan,2020,32069.444,third,71.537,38928341
+Albania,2008,20317.058,third,31.135,3002683
+Albania,2012,19218.166,third,30.957,2914091
+Albania,2016,18456.3,third,30.905,2886427
+Albania,2020,14811.211,third,30.516,2877800
+Algeria,2008,10667.887,third,25.064,34730604
+Algeria,2012,9775.622,third,24.714,37383899
+Algeria,2016,9720.444,third,24.486,40551398
+Algeria,2020,7496.832,third,24.323,43851043
+Andorra,2008,7158.262,third,23.707,83860
+Andorra,2012,6580.283,third,23.573,82427
+Andorra,2016,6471.36,third,23.432,77295
+Andorra,2020,5914.078,third,23.259,77265
+Angola,2008,5775.159,third,21.439,21695636
+Angola,2012,5338.698,third,21.283,25107925
+Angola,2016,5248.024,third,21.125,28842482
+Angola,2020,4712.771,third,20.928,32866267
+Anguilla,2008,2441.792,third,20.73,13056
+Anguilla,2012,2382.223,third,20.7,13794
+Anguilla,2016,1963.586,third,20.546,14435
+Anguilla,2020,1680.104,third,20.446,15002
+Antigua and Barbuda,2008,1636.923,third,18.355,85394
+Antigua and Barbuda,2012,1618.599,third,18.254,90407
+Antigua and Barbuda,2016,1577.136,third,18.195,94520
+Antigua and Barbuda,2020,1462.815,third,18.141,97928
+Argentina,2008,1306.01,third,16.712,40080159
+Argentina,2012,1244.184,third,16.649,41755188
+Argentina,2016,1241.584,third,16.62,43508459
+Argentina,2020,1232.314,third,16.55,45195777
+Armenia,2008,1223.336,third,15.122,2907615
+Armenia,2012,1203.718,third,15.117,2884239
+Armenia,2016,1164.898,First,15.066,2936147
+Armenia,2020,1159.7,First,15.052,2963234
+Aruba,2008,1062.388,First,14.342,101362
+Aruba,2012,1030.775,First,14.304,102565
+Aruba,2016,1007.52,First,14.262,104865
+Aruba,2020,994.16,First,14.244,106766
+Australia,2008,644.31,First,11.69,21332293
+Australia,2012,639.259,First,11.68,22903951
+Australia,2016,639.056,First,11.663,24262710
+Australia,2020,637.362,First,11.654,25499881
+Austria,2008,628.936,First,11.146,8341525
+Austria,2012,625.508,First,11.14,8502230
+Austria,2016,602.738,First,11.136,8747306
+Austria,2020,597.605,First,11.116,9006400
+Azerbaijan,2008,589.5,First,10.693,8821869
+Azerbaijan,2012,579.367,First,10.682,9264684
+Azerbaijan,2016,569.263,First,10.675,9736041
+Azerbaijan,2020,563.179,First,10.668,10139175
+Bahamas,2008,560.846,First,10.528,343680
+Bahamas,2012,559.567,First,10.513,363581
+Bahamas,2016,544.498,First,10.498,377923
+Bahamas,2020,535.823,First,10.488,393248
+Bahrain,2008,534.644,First,10.287,1114645
+Bahrain,2012,534.025,First,10.268,1299942
+Bahrain,2016,521.528,First,10.258,1425793
+Bahrain,2020,498.309,First,10.243,1701583
+Bangladesh,2008,496.3,First,10.088,144304164
+Bangladesh,2012,494.642,First,10.067,151005733
+Bangladesh,2016,492.98,First,10.062,157977151
+Bangladesh,2020,492.748,First,10.059,164689383
+Barbados,2008,487.517,First,9.916,279946
+Barbados,2012,482.798,First,9.911,283698
+Barbados,2016,478.903,First,9.897,285798
+Barbados,2020,467.384,First,9.894,287371
+Belarus,2008,465.567,First,9.545,9452855
+Belarus,2012,464.769,First,9.536,9417045
+Belarus,2016,461.139,First,9.525,9445638
+Belarus,2020,457.879,First,9.514,9449321
+Belgium,2008,451.957,First,9.14,10778764
+Belgium,2012,450.53,First,9.127,11085355
+Belgium,2016,444.397,First,9.118,11354407
+Belgium,2020,432.336,First,9.114,11589616
+Belize,2008,415.945,First,8.981,306822
+Belize,2012,412.638,First,8.969,338001
+Belize,2016,409.653,First,8.964,368399
+Belize,2020,403.447,First,8.955,397621
+Benin,2008,402.666,First,8.858,8696915
+Benin,2012,401.24,First,8.85,9729254
+Benin,2016,399.337,First,8.845,10872072
+Benin,2020,392.794,First,8.839,12123198
+Bermuda,2008,391.892,First,8.741,65940
+Bermuda,2012,387.992,First,8.737,64736
+Bermuda,2016,366.293,First,8.733,63360
+Bermuda,2020,358.061,First,8.73,62273
+Bhutan,2008,356.968,First,8.687,671611
+Bhutan,2012,355.932,First,8.684,701582
+Bhutan,2016,353.666,First,8.675,736706
+Bhutan,2020,336.767,First,8.662,771612
+Bolivia,2008,333.579,First,8.549,9721457
+Bolivia,2012,330.454,First,8.542,10377677
+Bolivia,2016,329.579,First,8.535,11031822
+Bolivia,2020,326.702,First,8.523,11673029
+Bonaire Sint Eustatius and Saba,2008,325.533,First,8.375,18163
+Bonaire Sint Eustatius and Saba,2012,324.342,First,8.365,22840
+Bonaire Sint Eustatius and Saba,2016,309.321,First,8.358,25017
+Bonaire Sint Eustatius and Saba,2020,303.976,First,8.348,26221
+Bosnia and Herzegovina,2008,303.815,First,8.155,3754261
+Bosnia and Herzegovina,2012,299.593,First,8.153,3604972
+Bosnia and Herzegovina,2016,291.336,First,8.146,3386263
+Bosnia and Herzegovina,2020,288.686,First,8.142,3280815
+Botswana,2008,283.435,First,8.08,1915636
+Botswana,2012,279.705,First,8.076,2039551
+Botswana,2016,278.964,First,8.07,2159925
+Botswana,2020,276.634,First,8.067,2351625
+Brazil,2008,273.175,First,7.883,192030362
+Brazil,2012,272.756,First,7.88,199287292
+Brazil,2016,272.607,First,7.875,206163056
+Brazil,2020,270.268,First,7.872,212559409
+British Virgin Islands,2008,266.595,First,7.791,26096
+British Virgin Islands,2012,260.758,First,7.786,28654
+British Virgin Islands,2016,257.766,First,7.779,29355
+British Virgin Islands,2020,254.303,First,7.772,30237
+Brunei,2008,250.561,First,7.634,379418
+Brunei,2012,245.836,First,7.625,398997
+Brunei,2016,234.755,First,7.62,419791
+Brunei,2020,234.123,First,7.617,437483
+Bulgaria,2008,234.006,First,7.384,7524084
+Bulgaria,2012,228.67,First,7.377,7334007
+Bulgaria,2016,226.873,First,7.369,7151948
+Bulgaria,2020,215.213,First,7.363,6948445
+Burkina Faso,2008,214.667,First,7.287,14689725
+Burkina Faso,2012,213.909,First,7.28,16571252
+Burkina Faso,2016,213.457,First,7.271,18646350
+Burkina Faso,2020,210.829,First,7.268,20903278
+Burundi,2008,208.915,First,7.181,8126104
+Burundi,2012,208.718,First,7.171,9245992
+Burundi,2016,207.019,First,7.162,10488002
+Burundi,2020,201.985,First,7.157,11890781
+Cambodia,2008,201.548,First,7.079,13883835
+Cambodia,2012,194.764,First,7.067,14780454
+Cambodia,2016,194.361,First,7.059,15766290
+Cambodia,2020,192.766,First,7.055,16718971
+Cameroon,2008,191.715,First,6.965,19252674
+Cameroon,2012,190.977,First,6.954,21485267
+Cameroon,2016,188.106,First,6.948,23926549
+Cameroon,2020,182.224,First,6.935,26545864
+Canada,2008,174.862,First,6.61,33337638
+Canada,2012,169.477,First,6.607,34922031
+Canada,2016,168.69,First,6.604,36382942
+Canada,2020,164.925,First,6.6,37742157
+Cape Verde,2008,164.7,First,6.525,480846
+Cape Verde,2012,156.978,First,6.514,505241
+Cape Verde,2016,155.356,First,6.506,531140
+Cape Verde,2020,154.995,First,6.498,555988
+Central African Republic,2008,153.97,First,6.424,4273368
+Central African Republic,2012,153.876,First,6.423,4436411
+Central African Republic,2016,152.815,First,6.418,4537683
+Central African Republic,2020,150.268,First,6.413,4829764
+Chad,2008,148.929,First,6.331,11183589
+Chad,2012,142.552,First,6.323,12784748
+Chad,2016,138.1,First,6.312,14561658
+Chad,2020,136.018,First,6.298,16425859
+Chile,2008,128.111,First,6.148,16708255
+Chile,2012,125.463,First,6.147,17400359
+Chile,2016,123.039,First,6.143,18209072
+Chile,2020,122.995,First,6.137,19116209
+China,2008,122.237,First,5.994,1353569480
+China,2012,120.181,second,5.993,1384206408
+China,2016,116.331,second,5.988,1414049353
+China,2020,115.821,second,5.983,1439323774
+Christmas Island,2008,114.891,second,5.931,
+Christmas Island,2012,113.327,second,5.927,
+Christmas Island,2016,112.784,second,5.92,
+Christmas Island,2020,111.289,second,5.912,
+Colombia,2008,111.125,second,5.82,44254972
+Colombia,2012,109.032,second,5.818,46075721
+Colombia,2016,108.169,second,5.813,48175048
+Colombia,2020,106.685,second,5.811,50882884
+Comoros,2008,106.655,second,5.747,657227
+Comoros,2012,102.386,second,5.738,723865
+Comoros,2016,100.859,second,5.735,795597
+Comoros,2020,100.074,second,5.73,869595
+Congo,2008,99.872,second,5.664,4011487
+Congo,2012,98.58,second,5.66,4510197
+Congo,2016,94.772,second,5.656,4980996
+Congo,2020,93.242,second,5.651,5518092
+Cook Islands,2008,92.842,second,5.601,18808
+Cook Islands,2012,92.304,second,5.597,18009
+Cook Islands,2016,91.803,second,5.594,17521
+Cook Islands,2020,91.431,second,5.59,17564
+Costa Rica,2008,89.105,second,5.507,4463123
+Costa Rica,2012,88.935,second,5.498,4688003
+Costa Rica,2016,88.907,second,5.494,4899336
+Costa Rica,2020,88.442,second,5.49,5094114
+Cote d'Ivoire,2008,88.408,second,5.411,19605568
+Cote d'Ivoire,2012,87.975,second,5.405,21547188
+Cote d'Ivoire,2016,84.609,second,5.402,23822726
+Cote d'Ivoire,2020,84.392,second,5.399,26378275
+Croatia,2008,83.882,second,5.246,4352639
+Croatia,2012,83.749,second,5.244,4295869
+Croatia,2016,82.297,second,5.242,4208611
+Croatia,2020,81.171,second,5.238,4105268
+Cuba,2008,79.727,second,5.166,11236975
+Cuba,2012,79.684,second,5.161,11257112
+Cuba,2016,77.301,second,5.157,11335108
+Cuba,2020,76.477,second,5.154,11326616
+Curacao,2008,75.338,second,5.062,141004
+Curacao,2012,74.785,second,5.058,154812
+Curacao,2016,74.152,second,5.055,161055
+Curacao,2020,73.472,second,5.048,164100
+Cyprus,2008,71.475,second,4.982,1081568
+Cyprus,2012,71.373,second,4.972,1135046
+Cyprus,2016,70.795,second,4.968,1170189
+Cyprus,2020,70.329,second,4.964,1207361
+Czechia,2008,70.164,second,4.792,10425267
+Czechia,2012,67.98,second,4.783,10581302
+Czechia,2016,67.263,second,4.778,10618868
+Czechia,2020,67.215,second,4.774,10708982
+Democratic Republic of Congo,2008,66.877,second,4.67,60411195
+Democratic Republic of Congo,2012,66.65,second,4.666,69020749
+Democratic Republic of Congo,2016,65.439,second,4.663,78789130
+Democratic Republic of Congo,2020,64.536,second,4.657,89561404
+Denmark,2008,64.534,second,4.509,5497731
+Denmark,2012,64.257,second,4.507,5610909
+Denmark,2016,62.674,second,4.505,5711346
+Denmark,2020,62.163,second,4.498,5792203
+Djibouti,2008,61.219,second,4.453,816361
+Djibouti,2012,60.691,second,4.45,868136
+Djibouti,2016,60.635,second,4.449,929117
+Djibouti,2020,60.31,second,4.444,988002
+Dominica,2008,60.123,second,4.396,70829
+Dominica,2012,59.851,second,4.395,70954
+Dominica,2016,58.968,second,4.393,71307
+Dominica,2020,58.617,second,4.389,71991
+Dominican Republic,2008,58.457,second,4.34,9458079
+Dominican Republic,2012,57.572,second,4.335,9930916
+Dominican Republic,2016,57.445,second,4.331,10397738
+Dominican Republic,2020,57.248,second,4.329,10847904
+Ecuador,2008,56.954,second,3.827,14535740
+Ecuador,2012,56.667,second,3.824,15474099
+Ecuador,2016,56.351,second,3.822,16491116
+Ecuador,2020,54.079,second,3.818,17643060
+Egypt,2008,54.041,second,3.75,79636081
+Egypt,2012,53.591,second,3.747,86422240
+Egypt,2016,53.485,second,3.746,94447071
+Egypt,2020,52.72,second,3.743,102334403
+El Salvador,2008,52.235,second,3.698,6131767
+El Salvador,2012,51.778,second,3.696,6237922
+El Salvador,2016,51.647,second,3.694,6356137
+El Salvador,2020,51.369,second,3.692,6486201
+Equatorial Guinea,2008,51.229,second,3.644,860839
+Equatorial Guinea,2012,51.22,second,3.643,1031191
+Equatorial Guinea,2016,50.887,second,3.64,1215181
+Equatorial Guinea,2020,50.721,second,3.636,1402985
+Eritrea,2008,50.458,second,3.58,3062782
+Eritrea,2012,49.979,second,3.577,3250104
+Eritrea,2016,48.341,second,3.572,3376558
+Eritrea,2020,48.275,second,3.568,3546427
+Estonia,2008,48.145,second,3.434,1340067
+Estonia,2012,47.367,second,3.432,1323163
+Estonia,2016,47.231,second,3.43,1316507
+Estonia,2020,47.229,second,3.427,1326539
+Eswatini,2008,47.072,second,3.386,1049948
+Eswatini,2012,46.774,second,3.382,1079285
+Eswatini,2016,46.758,second,3.38,1113994
+Eswatini,2020,45.556,second,3.378,1160164
+Ethiopia,2008,45.504,second,3.328,82916236
+Ethiopia,2012,45.502,second,3.326,92726982
+Ethiopia,2016,45.301,second,3.323,103603461
+Ethiopia,2020,45.034,second,3.321,114963583
+Faeroe Islands,2008,44.837,second,2.801,47822
+Faeroe Islands,2012,44.8,second,2.799,47843
+Faeroe Islands,2016,44.714,second,2.798,48173
+Faeroe Islands,2020,44.706,second,2.794,48865
+Fiji,2008,44.342,second,2.765,845356
+Fiji,2012,44.096,second,2.762,865065
+Fiji,2016,43.724,second,2.761,872406
+Fiji,2020,43.389,second,2.76,896444
+Finland,2008,43.262,second,2.68,5319452
+Finland,2012,43.135,second,2.679,5414769
+Finland,2016,42.791,second,2.677,5497714
+Finland,2020,42.742,second,2.671,5540718
+France,2008,42.255,second,2.541,62209207
+France,2012,42.11,second,2.539,63564224
+France,2016,41.373,second,2.535,64667590
+France,2020,41.283,second,2.533,65273512
+French Equatorial Africa,2008,40.81,second,2.503,
+French Equatorial Africa,2012,40.388,second,2.502,
+French Equatorial Africa,2016,40.275,second,2.5,
+French Equatorial Africa,2020,40.156,second,2.499,
+French Guiana,2008,40.052,second,2.46,221997
+French Guiana,2012,39.84,second,2.458,243667
+French Guiana,2016,39.504,second,2.456,267824
+French Guiana,2020,39.288,second,2.454,298682
+French Polynesia,2008,39.193,second,2.429,264064
+French Polynesia,2012,38.635,second,2.427,268995
+French Polynesia,2016,38.242,second,2.427,274576
+French Polynesia,2020,37.72,second,2.425,280904
+French West Africa,2008,37.713,second,2.39,
+French West Africa,2012,37.565,second,2.389,
+French West Africa,2016,37.444,second,2.386,
+French West Africa,2020,37.154,second,2.38,
+Gabon,2008,37.055,second,2.354,1518538
+Gabon,2012,37.011,second,2.351,1749677
+Gabon,2016,36.326,second,2.348,2007882
+Gabon,2020,36.138,second,2.345,2225728
+Gambia,2008,35.921,second,2.316,1689288
+Gambia,2012,35.509,second,2.314,1905020
+Gambia,2016,35.45,second,2.312,2149134
+Gambia,2020,35.048,second,2.31,2416664
+Georgia,2008,35.031,second,2.21,4142648
+Georgia,2012,34.96,second,2.209,4064097
+Georgia,2016,34.856,second,2.208,4015457
+Georgia,2020,34.305,second,2.206,3989175
+Germany,2008,33.847,second,2.102,81065751
+Germany,2012,33.801,second,2.1,80972629
+Germany,2016,33.475,second,2.099,82193770
+Germany,2020,33.349,second,2.097,83783945
+Ghana,2008,32.298,second,2.068,23563832
+Ghana,2012,31.404,second,2.066,25996454
+Ghana,2016,31.373,second,2.066,28481947
+Ghana,2020,31.239,second,2.063,31072945
+Greece,2008,30.932,second,1.998,11040312
+Greece,2012,30.73,second,1.994,10781119
+Greece,2016,30.532,second,1.992,10615183
+Greece,2020,29.742,second,1.988,10423056
+Greenland,2008,29.681,second,1.968,56836
+Greenland,2012,29.573,second,1.966,56477
+Greenland,2016,29.412,second,1.964,56408
+Greenland,2020,29.311,second,1.963,56772
+Grenada,2008,29.079,second,1.931,105457
+Grenada,2012,29.008,second,1.928,107452
+Grenada,2016,28.178,second,1.926,110263
+Grenada,2020,28.127,second,1.923,112519
+Guadeloupe,2008,28.108,second,1.898,403967
+Guadeloupe,2012,27.769,second,1.896,404446
+Guadeloupe,2016,27.019,second,1.895,399760
+Guadeloupe,2020,26.501,second,1.894,400127
+Guatemala,2008,26.306,second,1.863,14006420
+Guatemala,2012,26.195,second,1.859,15270774
+Guatemala,2016,25.969,second,1.856,16583079
+Guatemala,2020,25.487,second,1.853,17915567
+Guinea,2008,25.486,second,1.826,9738796
+Guinea,2012,25.437,second,1.825,10652032
+Guinea,2016,25.327,second,1.823,11738434
+Guinea,2020,24.645,second,1.822,13132792
+Guinea-Bissau,2008,24.346,second,1.793,1446936
+Guinea-Bissau,2012,24.333,second,1.792,1604981
+Guinea-Bissau,2016,23.814,second,1.789,1782434
+Guinea-Bissau,2020,23.599,second,1.786,1967998
+Guyana,2008,23.027,second,1.76,746815
+Guyana,2012,22.795,second,1.758,755388
+Guyana,2016,22.332,second,1.758,771363
+Guyana,2020,22.198,second,1.756,786559
+Haiti,2008,22.134,second,1.729,9646570
+Haiti,2012,22.025,second,1.727,10250922
+Haiti,2016,21.734,second,1.725,10839976
+Haiti,2020,21.418,second,1.724,11402533
+Honduras,2008,21.255,second,1.703,7980955
+Honduras,2012,21.106,second,1.701,8640692
+Honduras,2016,20.718,second,1.698,9270794
+Honduras,2020,20.7,second,1.697,9904608
+Hong Kong,2008,20.332,second,1.667,6881861
+Hong Kong,2012,20.152,second,1.665,7046847
+Hong Kong,2016,19.959,second,1.665,7243541
+Hong Kong,2020,19.311,second,1.664,7496988
+Hungary,2008,19.089,second,1.594,9991867
+Hungary,2012,18.938,second,1.593,9864363
+Hungary,2016,18.859,second,1.591,9752970
+Hungary,2020,18.268,second,1.59,9660350
+Iceland,2008,18.25,second,1.56,310855
+Iceland,2012,18.083,second,1.558,325642
+Iceland,2016,17.875,First,1.556,332209
+Iceland,2020,17.846,First,1.556,341250
+India,2008,17.779,First,1.498,1200669762
+India,2012,17.567,First,1.497,1265780243
+India,2016,17.418,First,1.496,1324517250
+India,2020,17.156,First,1.494,1380004385
+Indonesia,2008,16.982,First,1.446,235469755
+Indonesia,2012,16.958,First,1.444,248451714
+Indonesia,2016,16.913,First,1.443,261556386
+Indonesia,2020,16.547,First,1.441,273523621
+Iran,2008,16.146,First,1.378,72120608
+Iran,2012,16.001,First,1.377,75539881
+Iran,2016,15.798,First,1.376,79563991
+Iran,2020,15.737,First,1.375,83992953
+Iraq,2008,15.326,First,1.349,28385739
+Iraq,2012,15.203,First,1.346,31890012
+Iraq,2016,14.806,First,1.346,36610632
+Iraq,2020,14.665,First,1.343,40222503
+Ireland,2008,14.539,First,1.283,4415871
+Ireland,2012,14.425,First,1.282,4608199
+Ireland,2016,14.347,First,1.281,4695790
+Ireland,2020,14.345,First,1.279,4937796
+Israel,2008,14.315,First,1.255,7020832
+Israel,2012,13.799,First,1.253,7614946
+Israel,2016,13.634,First,1.251,8108984
+Israel,2020,13.554,First,1.25,8655541
+Italy,2008,13.351,First,1.206,58922116
+Italy,2012,12.563,First,1.205,59879469
+Italy,2016,12.16,First,1.205,60663068
+Italy,2020,12.017,First,1.204,60461828
+Jamaica,2008,11.988,First,1.185,2781869
+Jamaica,2012,11.987,First,1.184,2842128
+Jamaica,2016,11.893,First,1.183,2906242
+Jamaica,2020,11.798,First,1.182,2961161
+Japan,2008,11.558,First,1.145,128538644
+Japan,2012,11.508,First,1.143,128423571
+Japan,2016,11.388,First,1.142,127763267
+Japan,2020,11.184,First,1.14,126476458
+Jordan,2008,10.939,First,1.125,6556473
+Jordan,2012,10.893,First,1.124,8089963
+Jordan,2016,10.873,First,1.123,9554286
+Jordan,2020,10.866,First,1.123,10203140
+Kazakhstan,2008,10.78,First,1.074,15862126
+Kazakhstan,2012,10.78,First,1.073,16751523
+Kazakhstan,2016,10.738,First,1.071,17830902
+Kazakhstan,2020,10.555,First,1.07,18776707
+Kenya,2008,10.533,First,1.056,39791984
+Kenya,2012,10.531,First,1.054,44343469
+Kenya,2016,10.452,First,1.052,49051531
+Kenya,2020,10.451,First,1.051,53771300
+Kiribati,2008,10.427,First,1.039,98760
+Kiribati,2012,10.265,First,1.038,106359
+Kiribati,2016,10.219,First,1.037,112529
+Kiribati,2020,10.158,First,1.036,119446
+Kosovo,2008,10.071,First,1.036,
+Kosovo,2012,10.066,First,1.035,
+Kosovo,2016,10.016,First,1.035,
+Kosovo,2020,9.998,First,1.034,
+Kuwait,2008,9.968,First,1.02,2656010
+Kuwait,2012,9.911,First,1.019,3348852
+Kuwait,2016,9.768,First,1.018,3956862
+Kuwait,2020,9.768,First,1.017,4270563
+Kuwaiti Oil Fires,2008,9.76,First,1.013,
+Kuwaiti Oil Fires,2012,9.722,First,1.012,
+Kuwaiti Oil Fires,2016,9.66,First,1.012,
+Kuwaiti Oil Fires,2020,9.646,First,1.01,
+Kyrgyzstan,2008,9.493,First,0.973,5254969
+Kyrgyzstan,2012,9.448,First,0.972,5621583
+Kyrgyzstan,2016,9.296,First,0.971,6074327
+Kyrgyzstan,2020,9.293,First,0.97,6524191
+Laos,2008,9.175,First,0.954,6046630
+Laos,2012,9.094,First,0.953,6444527
+Laos,2016,9.093,First,0.952,6845848
+Laos,2020,9.062,First,0.952,7275556
+Latvia,2008,8.991,First,0.908,2171248
+Latvia,2012,8.925,First,0.908,2069018
+Latvia,2016,8.86,First,0.906,1974265
+Latvia,2020,8.735,First,0.906,1886202
+Lebanon,2008,8.714,First,0.889,4764745
+Lebanon,2012,8.693,First,0.888,5537620
+Lebanon,2016,8.592,First,0.888,6714281
+Lebanon,2020,8.438,First,0.887,6825442
+Leeward Islands,2008,8.339,First,0.876,
+Leeward Islands,2012,8.252,First,0.876,
+Leeward Islands,2016,8.202,First,0.874,
+Leeward Islands,2020,8.198,First,0.872,
+Lesotho,2008,8.175,First,0.867,1987130
+Lesotho,2012,8.163,First,0.867,2014988
+Lesotho,2016,8.155,First,0.866,2075041
+Lesotho,2020,8.109,First,0.866,2142252
+Liberia,2008,7.99,First,0.852,3607863
+Liberia,2012,7.923,First,0.852,4135662
+Liberia,2016,7.913,First,0.851,4586788
+Liberia,2020,7.907,First,0.851,5057677
+Libya,2008,7.89,First,0.838,6058740
+Libya,2012,7.883,First,0.837,6285751
+Libya,2016,7.874,First,0.836,6492160
+Libya,2020,7.815,First,0.836,6871287
+Liechtenstein,2008,7.72,First,0.833,35469
+Liechtenstein,2012,7.57,First,0.832,36615
+Liechtenstein,2016,7.547,First,0.832,37655
+Liechtenstein,2020,7.544,First,0.831,38137
+Lithuania,2008,7.519,First,0.795,3212867
+Lithuania,2012,7.429,First,0.794,3045561
+Lithuania,2016,7.387,First,0.794,2889555
+Lithuania,2020,7.373,First,0.793,2722291
+Luxembourg,2008,7.362,First,0.781,485403
+Luxembourg,2012,7.335,First,0.78,530855
+Luxembourg,2016,7.262,First,0.779,579266
+Luxembourg,2020,7.26,First,0.778,625976
+Macao,2008,7.21,First,0.766,515232
+Macao,2012,7.183,First,0.765,564037
+Macao,2016,7.147,First,0.764,612824
+Macao,2020,6.987,First,0.763,649342
+Madagascar,2008,6.889,First,0.747,19996476
+Madagascar,2012,6.773,First,0.746,22346641
+Madagascar,2016,6.745,First,0.746,24894370
+Madagascar,2020,6.703,First,0.745,27691019
+Malawi,2008,6.652,First,0.732,13727899
+Malawi,2012,6.646,First,0.731,15396010
+Malawi,2016,6.636,First,0.73,17205253
+Malawi,2020,6.6,First,0.728,19129955
+Malaysia,2008,6.592,First,0.707,27236003
+Malaysia,2012,6.573,First,0.706,29068189
+Malaysia,2016,6.571,First,0.706,30684652
+Malaysia,2020,6.52,First,0.705,32365998
+Maldives,2008,6.519,First,0.696,343448
+Maldives,2012,6.496,First,0.696,397231
+Maldives,2016,6.472,First,0.696,475505
+Maldives,2020,6.44,First,0.695,540542
+Mali,2008,6.418,First,0.686,14113578
+Mali,2012,6.405,First,0.686,15979492
+Mali,2016,6.334,First,0.686,17965448
+Mali,2020,6.159,First,0.685,20250834
+Malta,2008,6.124,First,0.675,409493
+Malta,2012,6.119,First,0.674,421809
+Malta,2016,5.915,First,0.672,436099
+Malta,2020,5.89,First,0.67,441539
+Marshall Islands,2008,5.84,First,0.668,56166
+Marshall Islands,2012,5.837,First,0.668,56712
+Marshall Islands,2016,5.8,First,0.667,57723
+Marshall Islands,2020,5.748,First,0.666,59194
+Martinique,2008,5.659,First,0.656,397664
+Martinique,2012,5.575,First,0.655,388366
+Martinique,2016,5.515,First,0.655,376789
+Martinique,2020,5.47,First,0.654,375265
+Mauritania,2008,5.451,First,0.645,3296237
+Mauritania,2012,5.441,First,0.645,3706555
+Mauritania,2016,5.426,First,0.645,4163532
+Mauritania,2020,5.383,First,0.644,4649660
+Mauritius,2008,5.315,First,0.635,1239262
+Mauritius,2012,5.309,First,0.634,1253489
+Mauritius,2016,5.203,First,0.634,1261870
+Mauritius,2020,5.19,First,0.633,1271767
+Mayotte,2008,5.173,First,0.631,196269
+Mayotte,2012,5.147,First,0.63,221147
+Mayotte,2016,5.077,First,0.63,246460
+Mayotte,2020,5.074,First,0.629,272813
+Mexico,2008,5.034,First,0.61,110815272
+Mexico,2012,4.976,First,0.609,117274156
+Mexico,2016,4.904,First,0.609,123333379
+Mexico,2020,4.892,First,0.609,128932753
+Micronesia (country),2008,4.793,First,0.607,103549
+Micronesia (country),2012,4.79,First,0.605,104506
+Micronesia (country),2016,4.766,First,0.604,110215
+Micronesia (country),2020,4.74,First,0.604,115021
+Moldova,2008,4.668,First,0.57,4112886
+Moldova,2012,4.588,First,0.57,4075804
+Moldova,2016,4.546,First,0.569,4066013
+Moldova,2020,4.535,First,0.569,4033963
+Mongolia,2008,4.525,First,0.56,2631899
+Mongolia,2012,4.503,First,0.56,2824698
+Mongolia,2016,4.492,First,0.558,3056358
+Mongolia,2020,4.45,First,0.557,3278292
+Montenegro,2008,4.403,First,0.539,621312
+Montenegro,2012,4.366,First,0.539,625931
+Montenegro,2016,4.346,First,0.538,627271
+Montenegro,2020,4.298,First,0.538,628062
+Montserrat,2008,4.278,First,0.531,4906
+Montserrat,2012,4.276,First,0.531,4930
+Montserrat,2016,4.272,First,0.53,4978
+Montserrat,2020,4.2,First,0.53,4999
+Morocco,2008,4.166,First,0.518,31536807
+Morocco,2012,4.163,First,0.518,33241898
+Morocco,2016,4.051,First,0.517,35126274
+Morocco,2020,3.979,First,0.516,36910558
+Mozambique,2008,3.97,First,0.506,22276596
+Mozambique,2012,3.964,First,0.506,24862673
+Mozambique,2016,3.919,First,0.505,27829930
+Mozambique,2020,3.881,First,0.505,31255435
+Myanmar,2008,3.877,First,0.494,49929642
+Myanmar,2012,3.811,First,0.494,51413703
+Myanmar,2016,3.767,First,0.494,53045199
+Myanmar,2020,3.702,First,0.493,54409794
+Namibia,2008,3.68,First,0.49,2043382
+Namibia,2012,3.638,First,0.49,2194777
+Namibia,2016,3.627,First,0.49,2358044
+Namibia,2020,3.497,First,0.489,2540916
+Nauru,2008,3.487,First,0.486,9880
+Nauru,2012,3.398,First,0.485,10136
+Nauru,2016,3.394,First,0.485,10474
+Nauru,2020,3.39,First,0.485,10834
+Nepal,2008,3.381,First,0.477,26666581
+Nepal,2012,3.377,First,0.476,26989160
+Nepal,2016,3.355,First,0.476,27263430
+Nepal,2020,3.352,First,0.475,29136808
+Netherlands,2008,3.335,First,0.454,16568105
+Netherlands,2012,3.334,First,0.454,16791850
+Netherlands,2016,3.329,First,0.454,16981285
+Netherlands,2020,3.253,First,0.453,17134873
+New Caledonia,2008,3.232,First,0.443,246696
+New Caledonia,2012,3.117,First,0.443,260656
+New Caledonia,2016,3.092,First,0.443,274190
+New Caledonia,2020,2.983,First,0.442,285491
+New Zealand,2008,2.981,First,0.427,4278156
+New Zealand,2012,2.945,First,0.426,4468462
+New Zealand,2016,2.936,First,0.426,4659265
+New Zealand,2020,2.933,First,0.425,4822233
+Nicaragua,2008,2.92,First,0.418,5667436
+Nicaragua,2012,2.899,First,0.418,5982530
+Nicaragua,2016,2.896,First,0.418,6303970
+Nicaragua,2020,2.848,First,0.417,6624554
+Niger,2008,2.78,First,0.41,15250913
+Niger,2012,2.761,First,0.41,17795209
+Niger,2016,2.748,First,0.41,20788789
+Niger,2020,2.747,First,0.409,24206636
+Nigeria,2008,2.744,First,0.4,150269622
+Nigeria,2012,2.656,First,0.399,167228803
+Nigeria,2016,2.635,First,0.399,185960244
+Nigeria,2020,2.619,First,0.398,206139587
+Niue,2008,2.605,First,0.393,1633
+Niue,2012,2.562,First,0.393,1606
+Niue,2016,2.553,First,0.392,1611
+Niue,2020,2.535,First,0.392,1618
+North Korea,2008,2.345,First,0.327,24310143
+North Korea,2012,2.338,First,0.327,24800638
+North Korea,2016,2.33,First,0.326,25307665
+North Korea,2020,2.316,First,0.326,25778815
+North Macedonia,2008,2.312,First,0.313,2067309
+North Macedonia,2012,2.31,First,0.313,2074275
+North Macedonia,2016,2.306,First,0.313,2080746
+North Macedonia,2020,2.278,First,0.313,2083380
+Norway,2008,2.276,First,0.295,4771014
+Norway,2012,2.264,First,0.294,5013716
+Norway,2016,2.224,First,0.293,5250950
+Norway,2020,2.216,First,0.293,5421242
+Oceania,2008,2.213,First,0.277,35561162
+Oceania,2012,2.213,First,0.277,38104732
+Oceania,2016,2.213,First,0.276,40435631
+Oceania,2020,2.198,First,0.276,42677809
+Oman,2008,2.192,First,0.271,2750956
+Oman,2012,2.183,First,0.271,3498031
+Oman,2016,2.18,First,0.271,4479217
+Oman,2020,2.159,First,0.27,5106622
+Pakistan,2008,2.131,First,0.264,171648984
+Pakistan,2012,2.125,First,0.263,187280125
+Pakistan,2016,2.064,First,0.263,203631356
+Pakistan,2020,2.052,First,0.262,220892331
+Palau,2008,2.015,First,0.258,18708
+Palau,2012,2.014,First,0.257,17635
+Palau,2016,1.997,First,0.257,17718
+Palau,2020,1.979,First,0.256,18092
+Palestine,2008,1.96,First,0.254,3856692
+Palestine,2012,1.957,First,0.254,4241572
+Palestine,2016,1.935,First,0.253,4635644
+Palestine,2020,1.925,First,0.253,5101416
+Panama,2008,1.916,First,0.248,3516204
+Panama,2012,1.811,First,0.247,3770635
+Panama,2016,1.796,First,0.247,4037073
+Panama,2020,1.78,First,0.247,4314768
+Panama Canal Zone,2008,1.773,First,0.242,
+Panama Canal Zone,2012,1.77,First,0.241,
+Panama Canal Zone,2016,1.761,First,0.241,
+Panama Canal Zone,2020,1.754,First,0.241,
+Papua New Guinea,2008,1.734,First,0.236,6976200
+Papua New Guinea,2012,1.707,First,0.235,7631003
+Papua New Guinea,2016,1.704,First,0.235,8271766
+Papua New Guinea,2020,1.69,First,0.235,8947027
+Paraguay,2008,1.612,First,0.231,6081296
+Paraguay,2012,1.595,First,0.231,6421510
+Paraguay,2016,1.523,First,0.231,6777878
+Paraguay,2020,1.459,First,0.23,7132530
+Peru,2008,1.436,First,0.219,28562321
+Peru,2012,1.405,First,0.219,29506790
+Peru,2016,1.395,First,0.219,30926036
+Peru,2020,1.393,First,0.218,32971845
+Philippines,2008,1.357,First,0.212,90901967
+Philippines,2012,1.348,First,0.212,97212639
+Philippines,2016,1.33,First,0.211,103663812
+Philippines,2020,1.33,First,0.211,109581085
+Poland,2008,1.306,First,0.196,38356786
+Poland,2012,1.291,First,0.195,38227033
+Poland,2016,1.283,First,0.195,37989218
+Poland,2020,1.263,First,0.195,37846605
+Portugal,2008,1.26,First,0.186,10595312
+Portugal,2012,1.239,First,0.186,10526308
+Portugal,2016,1.179,First,0.186,10325540
+Portugal,2020,1.169,First,0.185,10196707
+Puerto Rico,2008,1.156,First,0.18,3608030
+Puerto Rico,2012,1.132,First,0.18,3536570
+Puerto Rico,2016,1.132,First,0.179,3283121
+Puerto Rico,2020,1.11,First,0.179,2860840
+Qatar,2008,1.087,First,0.174,1436670
+Qatar,2012,1.087,First,0.174,2196078
+Qatar,2016,1.055,First,0.174,2654379
+Qatar,2020,1.042,First,0.174,2881060
+Reunion,2008,1.036,First,0.17,816325
+Reunion,2012,1.033,First,0.169,843984
+Reunion,2016,1.022,First,0.169,869742
+Reunion,2020,1.013,First,0.168,895308
+Romania,2008,1.009,First,0.159,20829521
+Romania,2012,0.963,First,0.159,20227467
+Romania,2016,0.956,First,0.159,19796280
+Romania,2020,0.927,First,0.158,19237682
+Russia,2008,0.912,First,0.147,143248764
+Russia,2012,0.905,First,0.147,143993888
+Russia,2016,0.883,First,0.147,145275374
+Russia,2020,0.879,First,0.146,145934460
+Rwanda,2008,0.877,First,0.143,9524532
+Rwanda,2012,0.843,First,0.142,10549668
+Rwanda,2016,0.832,First,0.142,11668829
+Rwanda,2020,0.828,First,0.142,12952209
+Ryukyu Islands,2008,0.802,First,0.139,
+Ryukyu Islands,2012,0.795,First,0.139,
+Ryukyu Islands,2016,0.773,First,0.139,
+Ryukyu Islands,2020,0.773,First,0.139,
+Saint Helena,2008,0.762,First,0.136,5153
+Saint Helena,2012,0.758,First,0.136,5416
+Saint Helena,2016,0.753,First,0.136,5958
+Saint Helena,2020,0.728,First,0.136,6071
+Saint Kitts and Nevis,2008,0.722,First,0.135,48178
+Saint Kitts and Nevis,2012,0.718,First,0.134,49881
+Saint Kitts and Nevis,2016,0.718,First,0.134,51629
+Saint Kitts and Nevis,2020,0.706,First,0.134,53192
+Saint Lucia,2008,0.696,First,0.132,170011
+Saint Lucia,2012,0.684,First,0.131,176654
+Saint Lucia,2016,0.678,First,0.131,180028
+Saint Lucia,2020,0.658,First,0.131,183629
+Saint Pierre and Miquelon,2008,0.649,First,0.128,6286
+Saint Pierre and Miquelon,2012,0.645,First,0.127,6251
+Saint Pierre and Miquelon,2016,0.638,First,0.127,5933
+Saint Pierre and Miquelon,2020,0.63,First,0.127,5795
+Saint Vincent and the Grenadines,2008,0.63,First,0.123,108401
+Saint Vincent and the Grenadines,2012,0.624,First,0.123,108435
+Saint Vincent and the Grenadines,2016,0.623,First,0.123,109467
+Saint Vincent and the Grenadines,2020,0.623,First,0.123,110947
+Samoa,2008,0.619,First,0.121,183270
+Samoa,2012,0.614,First,0.121,189089
+Samoa,2016,0.608,First,0.12,194540
+Samoa,2020,0.605,First,0.12,198410
+Sao Tome and Principe,2008,0.602,First,0.118,171122
+Sao Tome and Principe,2012,0.601,First,0.117,188394
+Sao Tome and Principe,2016,0.59,First,0.117,203221
+Sao Tome and Principe,2020,0.583,First,0.117,219161
+Saudi Arabia,2008,0.582,First,0.113,25888535
+Saudi Arabia,2012,0.578,First,0.113,29154906
+Saudi Arabia,2016,0.562,First,0.113,32443443
+Saudi Arabia,2020,0.55,First,0.113,34813867
+Senegal,2008,0.539,First,0.11,12004700
+Senegal,2012,0.539,First,0.109,13401990
+Senegal,2016,0.535,First,0.109,14993514
+Senegal,2020,0.534,First,0.109,16743930
+Serbia,2008,0.531,First,0.102,9060105
+Serbia,2012,0.528,First,0.102,8940116
+Serbia,2016,0.526,First,0.102,8853963
+Serbia,2020,0.525,First,0.102,8737370
+Seychelles,2008,0.514,First,0.1,90450
+Seychelles,2012,0.506,First,0.1,92608
+Seychelles,2016,0.502,First,0.1,95711
+Seychelles,2020,0.5,First,0.099,98340
+Sierra Leone,2008,0.498,First,0.096,6133599
+Sierra Leone,2012,0.495,First,0.096,6712586
+Sierra Leone,2016,0.491,First,0.096,7328846
+Sierra Leone,2020,0.491,First,0.096,7976985
+Singapore,2008,0.491,First,0.093,4775810
+Singapore,2012,0.487,First,0.092,5369469
+Singapore,2016,0.487,First,0.092,5653625
+Singapore,2020,0.487,First,0.092,5850343
+Sint Maarten (Dutch part),2008,0.469,First,0.087,33424
+Sint Maarten (Dutch part),2012,0.469,First,0.087,36238
+Sint Maarten (Dutch part),2016,0.467,First,0.087,40812
+Sint Maarten (Dutch part),2020,0.466,First,0.087,42882
+Slovakia,2008,0.458,First,0.08,5399362
+Slovakia,2012,0.454,First,0.08,5414894
+Slovakia,2016,0.451,First,0.08,5442001
+Slovakia,2020,0.44,First,0.08,5459643
+Slovenia,2008,0.436,First,0.075,2023049
+Slovenia,2012,0.43,First,0.075,2057826
+Slovenia,2016,0.425,First,0.075,2074205
+Slovenia,2020,0.425,First,0.075,2078931
+Solomon Islands,2008,0.418,First,0.073,503366
+Solomon Islands,2012,0.414,First,0.073,556066
+Solomon Islands,2016,0.409,First,0.073,619438
+Solomon Islands,2020,0.401,First,0.073,686878
+Somalia,2008,0.4,First,0.071,11397188
+Somalia,2012,0.379,First,0.071,12715487
+Somalia,2016,0.366,First,0.07,14185635
+Somalia,2020,0.366,First,0.07,15893219
+South Africa,2008,0.351,First,0.066,49779472
+South Africa,2012,0.348,First,0.066,52832659
+South Africa,2016,0.337,First,0.066,56207649
+South Africa,2020,0.311,First,0.066,59308690
+South America,2008,0.308,First,0.062,384439475
+South America,2012,0.306,First,0.062,400581563
+South America,2016,0.304,First,0.062,416164871
+South America,2020,0.301,First,0.062,430759771
+South Korea,2008,0.301,First,0.059,49182458
+South Korea,2012,0.299,First,0.059,50060639
+South Korea,2016,0.296,First,0.058,50983446
+South Korea,2020,0.295,First,0.058,51269183
+South Sudan,2008,0.294,First,0.057,8736932
+South Sudan,2012,0.293,First,0.057,10113648
+South Sudan,2016,0.289,First,0.057,10832520
+South Sudan,2020,0.289,First,0.057,11193729
+Spain,2008,0.287,First,0.052,46068811
+Spain,2012,0.271,First,0.052,47063059
+Spain,2016,0.267,First,0.052,46634131
+Spain,2020,0.258,First,0.051,46754783
+Sri Lanka,2008,0.253,First,0.05,19983984
+Sri Lanka,2012,0.246,First,0.05,20532599
+Sri Lanka,2016,0.245,First,0.049,21021177
+Sri Lanka,2020,0.242,First,0.049,21413250
+St. Kitts-Nevis-Anguilla,2008,0.238,First,0.048,
+St. Kitts-Nevis-Anguilla,2012,0.238,First,0.048,
+St. Kitts-Nevis-Anguilla,2016,0.231,First,0.048,
+St. Kitts-Nevis-Anguilla,2020,0.227,First,0.048,
+Sudan,2008,0.224,First,0.046,33060843
+Sudan,2012,0.22,First,0.046,36193781
+Sudan,2016,0.22,First,0.046,39847433
+Sudan,2020,0.219,First,0.046,43849269
+Suriname,2008,0.219,First,0.044,517121
+Suriname,2012,0.216,First,0.044,541247
+Suriname,2016,0.216,First,0.044,564883
+Suriname,2020,0.216,First,0.044,586634
+Sweden,2008,0.213,First,0.038,9236433
+Sweden,2012,0.213,First,0.038,9542817
+Sweden,2016,0.212,First,0.038,9836003
+Sweden,2020,0.209,First,0.038,10099270
+Switzerland,2008,0.209,First,0.032,7622826
+Switzerland,2012,0.205,First,0.032,8008006
+Switzerland,2016,0.203,First,0.032,8379915
+Switzerland,2020,0.202,First,0.032,8654618
+Syria,2008,0.202,First,0.029,20664037
+Syria,2012,0.198,First,0.029,20438861
+Syria,2016,0.191,First,0.029,17465567
+Syria,2020,0.191,First,0.029,17500657
+Taiwan,2008,0.188,First,0.026,23019042
+Taiwan,2012,0.187,First,0.026,23346898
+Taiwan,2016,0.185,First,0.026,23618201
+Taiwan,2020,0.183,First,0.026,23816775
+Tajikistan,2008,0.182,First,0.019,7209924
+Tajikistan,2012,0.18,First,0.019,7874838
+Tajikistan,2016,0.172,First,0.019,8663575
+Tajikistan,2020,0.165,First,0.019,9537642
+Tanzania,2008,0.165,First,0.017,41853944
+Tanzania,2012,0.165,First,0.017,47053033
+Tanzania,2016,0.161,First,0.017,53049231
+Tanzania,2020,0.154,First,0.017,59734213
+Thailand,2008,0.154,First,0.014,66530979
+Thailand,2012,0.151,First,0.014,67835969
+Thailand,2016,0.15,First,0.014,68971313
+Thailand,2020,0.15,First,0.014,69799978
+Timor,2008,0.148,First,0.014,1055428
+Timor,2012,0.147,First,0.014,1133002
+Timor,2016,0.144,First,0.013,1219289
+Timor,2020,0.143,First,0.013,1318442
+Togo,2008,0.143,First,0.012,6083417
+Togo,2012,0.143,First,0.012,6773807
+Togo,2016,0.141,First,0.012,7509952
+Togo,2020,0.139,First,0.012,8278736
+Tonga,2008,0.139,First,0.01,103384
+Tonga,2012,0.136,First,0.01,102736
+Tonga,2016,0.128,First,0.01,101143
+Tonga,2020,0.128,First,0.01,105697
+Trinidad and Tobago,2008,0.125,First,0.007,1314449
+Trinidad and Tobago,2012,0.125,First,0.007,1344814
+Trinidad and Tobago,2016,0.123,First,0.007,1377563
+Trinidad and Tobago,2020,0.121,First,0.007,1399491
+Tunisia,2008,0.117,First,0.006,10414425
+Tunisia,2012,0.114,First,0.006,10846993
+Tunisia,2016,0.113,First,0.006,11303942
+Tunisia,2020,0.11,First,0.006,11818618
+Turkey,2008,0.11,First,0.004,70418612
+Turkey,2012,0.106,First,0.004,74651046
+Turkey,2016,0.095,First,0.004,79827868
+Turkey,2020,0.084,First,0.004,84339067
+Turkmenistan,2008,0.079,First,0.001,4935765
+Turkmenistan,2012,0.07,First,0.001,5267906
+Turkmenistan,2016,0.07,First,0.001,5662371
+Turkmenistan,2020,0.068,First,0.001,6031187
+Turks and Caicos Islands,2008,0.066,First,0.001,31200
+Turks and Caicos Islands,2012,0.066,First,0.001,34067
+Turks and Caicos Islands,2016,0.066,First,0.001,36558
+Turks and Caicos Islands,2020,0.066,First,0.001,38718
+Tuvalu,2008,0.057,First,0,10315
+Tuvalu,2012,0.055,First,0,10744
+Tuvalu,2016,0.051,First,0,11232
+Tuvalu,2020,0.051,First,0,11792
+Uganda,2008,0.051,First,0,30431734
+Uganda,2012,0.051,First,0,34558700
+Uganda,2016,0.048,First,0,39649173
+Uganda,2020,0.044,First,,45741000
+Ukraine,2008,0.044,First,,46158709
+Ukraine,2012,0.044,First,,45453805
+Ukraine,2016,0.029,First,,44713708
+Ukraine,2020,0.026,First,,43733759
+United Arab Emirates,2008,0.026,First,,7089486
+United Arab Emirates,2012,0.026,First,,9141598
+United Arab Emirates,2016,0.025,First,,9360975
+United Arab Emirates,2020,0.022,First,,9890400
+United Kingdom,2008,0.015,First,,62145098
+United Kingdom,2012,0.011,First,,64525300
+United Kingdom,2016,0.011,First,,66297944
+United Kingdom,2020,0.011,First,,67886004
+United States,2008,0.011,First,,303486022
+United States,2012,0.011,First,,314043885
+United States,2016,0.009,First,,323015992
+United States,2020,0.008,First,,331002647
+Uruguay,2008,0.007,First,,3340221
+Uruguay,2012,0.007,First,,3378975
+Uruguay,2016,0.007,First,,3424139
+Uruguay,2020,0.007,First,,3473727
